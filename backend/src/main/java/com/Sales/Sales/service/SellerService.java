@@ -12,6 +12,7 @@ import com.Sales.Sales.repositories.SallerRepository;
 
 @Service
 public class SellerService {
+	
 	@Autowired
 	private SallerRepository sallerRepository; 
 	
